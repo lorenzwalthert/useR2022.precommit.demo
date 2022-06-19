@@ -1,3 +1,6 @@
 ^\.Rproj\.user$
 ^\.pre-commit-config\.yaml$
 ^useR2022\.precommit\.demo\.Rproj$
+^useR2022.precommit.demo\.Rcheck$
+^useR2022.precommit.demo.*\.tar\.gz$
+^useR2022.precommit.demo.*\.tgz$

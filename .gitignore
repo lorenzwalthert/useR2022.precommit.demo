@@ -3,3 +3,6 @@
 .Rdata
 .httr-oauth
 .DS_Store
+useR2022.precommit.demo.Rcheck/
+useR2022.precommit.demo*.tar.gz
+useR2022.precommit.demo*.tgz
